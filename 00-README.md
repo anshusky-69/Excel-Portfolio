@@ -94,6 +94,6 @@ excel-projects-portfolio/
 
  • Use slicers/filters for interactive exploration
 
-🎯** Purpose of This Portfolio**
+**🎯 Purpose of This Portfolio**
 
 To present real, hands-on Excel data analysis work — showcasing how I extract business insights, build interactive dashboards, and communicate findings clearly using Excel alone.
