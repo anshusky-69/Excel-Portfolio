@@ -60,7 +60,7 @@ Each project includes a self-contained dashboard, dataset, and clear insight sum
 
  • KPI Analysis & Insight Generation
 
-📂** Repository Structure**
+📂 ** Repository Structure**
 
 excel-projects-portfolio/
 │
