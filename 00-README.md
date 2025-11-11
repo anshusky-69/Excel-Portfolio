@@ -5,10 +5,12 @@ A focused collection of Excel-based data analysis projects, demonstrating real-w
 Each project includes a self-contained dashboard, dataset, and clear insight summary.
 
 ✅ **Projects Overview**
-01. **Coffee Sales Dashboard**
 
-➤ **Focus**: Global sales performance, customer insights, product profitability
-➤ **What’s inside**:
+➤ **Coffee Sales Dashboard**
+
+ **Focus**: Global sales performance, customer insights, product profitability.
+ 
+ **What’s inside**:
 
  • Sales trends by month & year
 
@@ -18,13 +20,15 @@ Each project includes a self-contained dashboard, dataset, and clear insight sum
 
  • Profit & quantity analysis
  
-➤ **Excel Skills**: Power Query, Pivot Tables, Pivot Charts, Calculated Fields, Dashboard Design
-➤ **Folder** : 01-coffee-sales-dashboard
+ **Excel Skills**: Power Query, Pivot Tables, Pivot Charts, Calculated Fields, Dashboard Design.
+ 
+ **Folder** : /01-coffee-sales-dashboard
 
-02. **Vrinda Store Annual Report 2022**
+ ➤ **Vrinda Store Annual Report 2022**
 
-➤ **Focus**: Retail annual performance, customer demographics, channel distribution
-➤ **What’s inside**:
+ **Focus**: Retail annual performance, customer demographics, channel distribution
+ 
+ **What’s inside**:
 
  • Month-wise sales vs orders
 
@@ -38,47 +42,57 @@ Each project includes a self-contained dashboard, dataset, and clear insight sum
 
  • Sales channel distribution
 
-➤ **Excel Skills**: Power Query, Slicers, Pivot Tables, Multi-chart layout, KPI visualization
-➤ **Folder**: 02-vrinda-store-annual-report
+**Excel Skills**: Power Query, Slicers, Pivot Tables, Multi-chart layout, KPI visualization.
+
+**Folder**: /02-vrinda-store-annual-report
 
 🧠 **Core Excel Skills Demonstrated**
 
-➤ Data Cleaning & Transformation (Power Query)
+ • Data Cleaning & Transformation (Power Query)
 
-➤ Data Modeling across multiple tables
+ • Data Modeling across multiple tables
 
-➤ Pivot Tables, Pivot Charts & Slicers
+ • Pivot Tables, Pivot Charts & Slicers
 
-➤ Advanced Excel formulas (INDEX-MATCH, XLOOKUP, IF logic)
+ • Advanced Excel formulas (INDEX-MATCH, XLOOKUP, IF logic)
 
-➤ Dashboard Design & Visual Storytelling
+ • Dashboard Design & Visual Storytelling
 
-➤ KPI Analysis & Insight Generation
+ • KPI Analysis & Insight Generation
 
 📂** Repository Structure**
+
 excel-projects-portfolio/
 │
+
 ├── 01-coffee-sales-dashboard/
+
 │   ├── coffee_sales_dashboard.xlsx
+
 │   ├── dashboard.png
+
 │   └── README.md
 │
+
 ├── 02-vrinda-store-annual-report/
+
 │   ├── vrinda_store_report_2022.xlsx
+
 │   ├── dashboard.png
+
 │   └── README.md
 │
 └── README.md  ← (master file)
 
 📥 **How to View Dashboards**
 
-➤ Download project folder
+ • Download project folder
 
-➤ Open the .xlsx file in Microsoft Excel
+ • Open the .xlsx file in Microsoft Excel
 
-➤ If Excel prompts, enable Editing and Content
+ • If Excel prompts, enable Editing and Content
 
-➤ Use slicers/filters for interactive exploration
+ • Use slicers/filters for interactive exploration
 
 🎯** Purpose of This Portfolio**
 
